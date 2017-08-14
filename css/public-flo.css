@@ -1,0 +1,24 @@
+.flo {
+  display: flex;
+  height: 0.88rem;
+  background: #fff;
+  border-top: 1px solid #d3d1d1;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0; }
+  .flo a {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; }
+    .flo a img {
+      width: 0.38rem;
+      height: 0.38rem;
+      margin-bottom: 0.05rem; }
+    .flo a p {
+      font-size: 0.22rem;
+      color: #666; }
+    .flo a .lan {
+      color: #399ada; }

@@ -1,0 +1,51 @@
+.con {
+  padding-top: 0.88rem;
+  display: flex;
+  flex-direction: column; }
+  .con div {
+    flex: 1;
+    height: 0.75rem;
+    padding: 0.4rem;
+    border-bottom: 1px solid #ccc; }
+    .con div h4 {
+      font-size: 0.3rem;
+      color: #333; }
+      .con div h4 span {
+        color: red; }
+    .con div p input {
+      border: 0;
+      height: 0.4rem;
+      font-size: 0.3rem;
+      outline: medium;
+      margin-top: 0.2rem; }
+
+#hq {
+  font-size: 0.24rem;
+  border: 1px solid #ccc;
+  width: 1.6rem;
+  height: 0.45rem;
+  float: right;
+  background: #3698d9;
+  color: #fff;
+  border-radius: 0.05rem; }
+
+.zc-a {
+  display: flex;
+  height: 0.7rem;
+  background: #3698d9;
+  margin: 0 0.4rem;
+  border-bottom: 0;
+  margin-top: 0.8rem;
+  border-radius: 0.1rem; }
+  .zc-a a {
+    display: flex;
+    height: 0.7rem;
+    color: #fff;
+    font-size: 0.3rem;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 50px;
+    right: 50px; }
+
+/*# sourceMappingURL=nickname.css.map */

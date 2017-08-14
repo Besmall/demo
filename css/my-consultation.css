@@ -1,0 +1,49 @@
+.ccc {
+  padding-top: 0.88rem; }
+
+.connoc {
+  padding-bottom: 0.8rem; }
+
+.con {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0.2rem; }
+
+.xxnr {
+  display: flex;
+  padding: 0 0.2rem;
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #ccc; }
+
+.tm {
+  display: flex;
+  flex-direction: column;
+  margin-top: 0.1rem; }
+  .tm h4 {
+    font-size: 0.3rem;
+    color: #333; }
+  .tm p {
+    color: #989898;
+    margin-top: 0.1rem; }
+
+.xx {
+  color: #666; }
+
+.yszq {
+  display: flex;
+  flex-direction: row;
+  margin: 0.2rem 0; }
+  .yszq div {
+    display: flex; }
+    .yszq div h4 {
+      font-size: 0.28rem;
+      color: #333; }
+    .yszq div p {
+      font-size: 0.26rem;
+      color: #3799da; }
+
+.zq {
+  margin: 0 0.2rem; }
+
+/*# sourceMappingURL=my-consultation.css.map */

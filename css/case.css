@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  background: #fff; }
+
+li {
+  list-style: none; }
+
+a {
+  text-decoration: none; }
+
+.top {
+  display: flex;
+  height: 0.88rem;
+  background: #3698d9;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 99; }
+  .top .top-t {
+    display: flex;
+    position: absolute;
+    left: 50px;
+    right: 50px;
+    height: 0.88rem;
+    color: #fff;
+    font-size: 0.36rem;
+    align-items: center;
+    justify-content: center; }
+
+.anliul {
+  display: flex;
+  flex-direction: column;
+  padding-top: 0.88rem;
+  padding-bottom: 1rem; }
+  .anliul ul li {
+    width: 48%;
+    float: left;
+    margin-right: 0.1rem; }
+    .anliul ul li img {
+      width: 100%; }
+
+.flo {
+  display: flex;
+  height: 0.88rem;
+  background: #fff;
+  border-top: 1px solid #d3d1d1;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0; }
+  .flo a {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; }
+    .flo a img {
+      width: 0.38rem;
+      height: 0.38rem;
+      margin-bottom: 0.05rem; }
+    .flo a p {
+      font-size: 0.22rem;
+      color: #666; }
+    .flo a .lan {
+      color: #399ada; }
+
+/*# sourceMappingURL=case.css.map */

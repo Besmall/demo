@@ -1,0 +1,115 @@
+*{margin: 0;padding: 0;}
+body{font-size: 0.24rem;;}
+li{list-style: none;}
+a{text-decoration: none;color: #fff;}
+.top{
+    display: flex;
+    height: 0.88rem;
+    background: #3698d9;
+    justify-content:flex-end;
+    a{  
+        display: flex;
+        font-size: 0.3rem;
+        margin-right: 0.3rem;
+        margin-top: 0.25rem;
+    }
+}
+.top-t{
+    display: flex;
+    position: absolute;
+    left: 50px;
+    right: 50px;
+     height: 0.88rem;
+    font-size: 0.36rem;
+    color: #fff;
+    justify-content:center;
+    align-items:center;
+}
+.bann{
+    height: 3rem;
+    background: #3698d9;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    a img{
+        width: 1.43rem;
+        height: 1.42rem;
+        border: 2px solid #fff;
+    }
+    p{
+        font-size: 0.3rem;
+        color: #fff;
+        margin-top: 0.3rem;
+    }
+}
+.zl{
+    display: flex;
+    height: 2.7rem;
+    flex-direction: column;
+    div{
+        display: flex;
+        flex: 1;
+        align-items: center;
+        justify-content: space-between;
+        border-bottom: 1px solid #ccc;
+        margin: 0 0.3rem;
+        h4{
+            margin-left: -2.5rem;
+            font-size: 0.3rem;
+            color:#333;
+        }
+        p{
+            font-size: 0.3rem;
+            color:#333;
+        }
+    }
+}
+.img1{
+    width: 0.21rem;
+    height: 0.31rem;
+}
+.img2{
+    width: 0.29rem;
+    height: 0.31rem;
+}
+.img3{
+    width: 0.38rem;
+    height: 0.31rem;
+}
+.gn{
+    display: flex;
+    height: 1.88rem;
+    margin-top: 1rem;
+    flex-direction: column;
+    padding-bottom: 0.8rem;
+    div{
+        display: flex;
+        flex: 1;
+        border-bottom: 1px solid #ccc;
+        a{
+            display: flex;
+            flex: 1;
+            align-items: center;
+            justify-content: space-between;
+            margin: 0 0.3rem;
+            h4{
+                margin-left: -3.5rem;
+                font-size: 0.3rem;
+                color:#333;
+            }
+        }
+    }
+}
+.img4{
+    width: 0.31rem;
+    height: 0.32rem;
+}
+.img5{
+    width: 0.14rem;
+    height: 0.29rem;
+}
+.img6{
+    width: 0.25rem;
+    height: 0.31rem;
+}
